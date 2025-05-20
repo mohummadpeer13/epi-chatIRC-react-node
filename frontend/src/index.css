@@ -1,0 +1,4 @@
+/* Ajoutez ces lignes pour importer les directives de Tailwind */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
